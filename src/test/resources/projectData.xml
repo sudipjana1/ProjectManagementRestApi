@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <projects project_id="1" project_name="P1" priority="12" start_date="2018-12-12" end_date="2018-12-20" />
+    <projects project_id="2" project_name="P2" priority="10" start_date="2018-12-11" end_date="2018-12-30" />
+    <projects project_id="3" project_name="P3" priority="19" start_date="2018-12-01" end_date="2018-12-25" />
+</dataset>
