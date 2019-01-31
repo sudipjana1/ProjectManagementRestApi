@@ -34,7 +34,9 @@ import com.springboot.mvc.security.login.service.ParentTaskService;
  */
 @RestController
 @RequestMapping("/projectmanagement/api/parenttask")
-@CrossOrigin(origins="http://localhost:4200")
+//@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="http://127.0.0.1:8081")
+
 
 
 public class ParentTaskController {
