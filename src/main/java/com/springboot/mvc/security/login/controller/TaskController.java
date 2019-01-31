@@ -36,7 +36,9 @@ import com.springboot.mvc.security.login.service.TaskService;
  */
 @RestController
 @RequestMapping("/projectmanagement/api/task")
-@CrossOrigin(origins="http://localhost:4200")
+//@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="http://127.0.0.1:8081")
+
 
 public class TaskController {
 
