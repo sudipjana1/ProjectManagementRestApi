@@ -34,7 +34,9 @@ import com.springboot.mvc.security.login.service.UserService;
  */
 @RestController
 @RequestMapping("/projectmanagement/api/user")
-@CrossOrigin(origins="http://localhost:4200")
+//@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="http://127.0.0.1:8081")
+
 
 
 public class UserController {
